@@ -14,5 +14,6 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
 # Set etc/openwrt_release
-rm -rf feeds/luci/applications/luci-app-argon-config
-rm -rf feeds/luci/themes/luci-theme-argon
+
+#rm -rf feeds/luci/applications/luci-app-argon-config
+#rm -rf feeds/luci/themes/luci-theme-argon
